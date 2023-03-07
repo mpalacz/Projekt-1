@@ -1,3 +1,5 @@
+using SortingAlgorithmsDLL;
+
 namespace Projekt_1
 {
     [TestClass]
