@@ -16,10 +16,4 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="SortingAlgorithmsDLL">
-      <HintPath>..\SortingAlgorithmsDLL\bin\Debug\net6.0\SortingAlgorithmsDLL.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
