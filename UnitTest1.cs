@@ -34,64 +34,64 @@ namespace Projekt_1
         [TestMethod]
         public void TestSelectionSort_Array1()
         {
-            SortingAlgoritms.SelectionSort(unsortedArray1_1);
+            SortingAlgorithms.SelectionSort(unsortedArray1_1);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_1);
 
-            SortingAlgoritms.SelectionSort(unsortedArray1_2);
+            SortingAlgorithms.SelectionSort(unsortedArray1_2);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_2);
 
-            SortingAlgoritms.SelectionSort(unsortedArray1_3);
+            SortingAlgorithms.SelectionSort(unsortedArray1_3);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_3);
         }
 
         [TestMethod]
         public void TestSelectionSort_Array2()
         {
-            SortingAlgoritms.SelectionSort(unsortedArray2_1);
+            SortingAlgorithms.SelectionSort(unsortedArray2_1);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_1);
 
-            SortingAlgoritms.SelectionSort(unsortedArray2_2);
+            SortingAlgorithms.SelectionSort(unsortedArray2_2);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_2);
 
-            SortingAlgoritms.SelectionSort(unsortedArray2_3);
+            SortingAlgorithms.SelectionSort(unsortedArray2_3);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_3);
         }
 
         [TestMethod]
         public void TestSelectionSort_Array3()
         {
-            SortingAlgoritms.SelectionSort(unsortedArray3_1);
+            SortingAlgorithms.SelectionSort(unsortedArray3_1);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_1);
 
-            SortingAlgoritms.SelectionSort(unsortedArray3_2);
+            SortingAlgorithms.SelectionSort(unsortedArray3_2);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_2);
 
-            SortingAlgoritms.SelectionSort(unsortedArray3_3);
+            SortingAlgorithms.SelectionSort(unsortedArray3_3);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_3);
         }
 
         [TestMethod]
         public void TestSelectionSort_Array4()
         {
-            SortingAlgoritms.SelectionSort(unsortedArray4_1);
+            SortingAlgorithms.SelectionSort(unsortedArray4_1);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_1);
 
-            SortingAlgoritms.SelectionSort(unsortedArray4_2);
+            SortingAlgorithms.SelectionSort(unsortedArray4_2);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_2);
 
-            SortingAlgoritms.SelectionSort(unsortedArray4_3);
+            SortingAlgorithms.SelectionSort(unsortedArray4_3);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_3);
         }
         [TestMethod]
         public void TestSelectionSort_Array5()
         {
-            SortingAlgoritms.SelectionSort(unsortedArray5_1);
+            SortingAlgorithms.SelectionSort(unsortedArray5_1);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_1);
 
-            SortingAlgoritms.SelectionSort(unsortedArray5_2);
+            SortingAlgorithms.SelectionSort(unsortedArray5_2);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_2);
 
-            SortingAlgoritms.SelectionSort(unsortedArray5_3);
+            SortingAlgorithms.SelectionSort(unsortedArray5_3);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_3);
         }
 
@@ -99,64 +99,64 @@ namespace Projekt_1
         [TestMethod]
         public void TestInsertionSort_Array1()
         {
-            SortingAlgoritms.InsertionSort(unsortedArray1_1);
+            SortingAlgorithms.InsertionSort(unsortedArray1_1);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_1);
 
-            SortingAlgoritms.InsertionSort(unsortedArray1_2);
+            SortingAlgorithms.InsertionSort(unsortedArray1_2);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_2);
 
-            SortingAlgoritms.InsertionSort(unsortedArray1_3);
+            SortingAlgorithms.InsertionSort(unsortedArray1_3);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_3);
         }
 
         [TestMethod]
         public void TestInsertionSort_Array2()
         {
-            SortingAlgoritms.InsertionSort(unsortedArray2_1);
+            SortingAlgorithms.InsertionSort(unsortedArray2_1);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_1);
 
-            SortingAlgoritms.InsertionSort(unsortedArray2_2);
+            SortingAlgorithms.InsertionSort(unsortedArray2_2);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_2);
 
-            SortingAlgoritms.InsertionSort(unsortedArray2_3);
+            SortingAlgorithms.InsertionSort(unsortedArray2_3);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_3);
         }
 
         [TestMethod]
         public void TestInsertionSort_Array3()
         {
-            SortingAlgoritms.InsertionSort(unsortedArray3_1);
+            SortingAlgorithms.InsertionSort(unsortedArray3_1);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_1);
 
-            SortingAlgoritms.InsertionSort(unsortedArray3_2);
+            SortingAlgorithms.InsertionSort(unsortedArray3_2);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_2);
 
-            SortingAlgoritms.InsertionSort(unsortedArray3_3);
+            SortingAlgorithms.InsertionSort(unsortedArray3_3);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_3);
         }
 
         [TestMethod]
         public void TestInsertionSort_Array4()
         {
-            SortingAlgoritms.InsertionSort(unsortedArray4_1);
+            SortingAlgorithms.InsertionSort(unsortedArray4_1);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_1);
 
-            SortingAlgoritms.InsertionSort(unsortedArray4_2);
+            SortingAlgorithms.InsertionSort(unsortedArray4_2);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_2);
 
-            SortingAlgoritms.InsertionSort(unsortedArray4_3);
+            SortingAlgorithms.InsertionSort(unsortedArray4_3);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_3);
         }
         [TestMethod]
         public void TestInsertionSort_Array5()
         {
-            SortingAlgoritms.InsertionSort(unsortedArray5_1);
+            SortingAlgorithms.InsertionSort(unsortedArray5_1);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_1);
 
-            SortingAlgoritms.InsertionSort(unsortedArray5_2);
+            SortingAlgorithms.InsertionSort(unsortedArray5_2);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_2);
 
-            SortingAlgoritms.InsertionSort(unsortedArray5_3);
+            SortingAlgorithms.InsertionSort(unsortedArray5_3);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_3);
         }
 
@@ -164,64 +164,64 @@ namespace Projekt_1
         [TestMethod]
         public void TestQuickSort_Array1()
         {
-            SortingAlgoritms.QuickSort(unsortedArray1_1, 0, unsortedArray1_1.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray1_1, 0, unsortedArray1_1.Length - 1);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_1);
 
-            SortingAlgoritms.QuickSort(unsortedArray1_2, 0, unsortedArray1_2.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray1_2, 0, unsortedArray1_2.Length - 1);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_2);
 
-            SortingAlgoritms.QuickSort(unsortedArray1_3, 0, unsortedArray1_3.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray1_3, 0, unsortedArray1_3.Length - 1);
             CollectionAssert.AreEqual(sortedArray1, unsortedArray1_3);
         }
 
         [TestMethod]
         public void TestQuickSort_Array2()
         {
-            SortingAlgoritms.QuickSort(unsortedArray2_1, 0, unsortedArray2_1.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray2_1, 0, unsortedArray2_1.Length - 1);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_1);
 
-            SortingAlgoritms.QuickSort(unsortedArray2_2, 0, unsortedArray2_2.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray2_2, 0, unsortedArray2_2.Length - 1);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_2);
 
-            SortingAlgoritms.QuickSort(unsortedArray2_3, 0, unsortedArray2_3.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray2_3, 0, unsortedArray2_3.Length - 1);
             CollectionAssert.AreEqual(sortedArray2, unsortedArray2_3);
         }
 
         [TestMethod]
         public void TestQuickSort_Array3()
         {
-            SortingAlgoritms.QuickSort(unsortedArray3_1, 0, unsortedArray3_1.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray3_1, 0, unsortedArray3_1.Length - 1);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_1);
 
-            SortingAlgoritms.QuickSort(unsortedArray3_2, 0, unsortedArray3_2.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray3_2, 0, unsortedArray3_2.Length - 1);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_2);
 
-            SortingAlgoritms.QuickSort(unsortedArray3_3, 0, unsortedArray3_3.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray3_3, 0, unsortedArray3_3.Length - 1);
             CollectionAssert.AreEqual(sortedArray3, unsortedArray3_3);
         }
 
         [TestMethod]
         public void TestQuickSort_Array4()
         {
-            SortingAlgoritms.QuickSort(unsortedArray4_1, 0, unsortedArray4_1.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray4_1, 0, unsortedArray4_1.Length - 1);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_1);
 
-            SortingAlgoritms.QuickSort(unsortedArray4_2, 0, unsortedArray4_2.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray4_2, 0, unsortedArray4_2.Length - 1);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_2);
 
-            SortingAlgoritms.QuickSort(unsortedArray4_3, 0, unsortedArray4_3.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray4_3, 0, unsortedArray4_3.Length - 1);
             CollectionAssert.AreEqual(sortedArray4, unsortedArray4_3);
         }
         [TestMethod]
         public void TestQuickSort_Array5()
         {
-            SortingAlgoritms.QuickSort(unsortedArray5_1, 0, unsortedArray5_1.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray5_1, 0, unsortedArray5_1.Length - 1);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_1);
 
-            SortingAlgoritms.QuickSort(unsortedArray5_2, 0, unsortedArray5_2.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray5_2, 0, unsortedArray5_2.Length - 1);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_2);
 
-            SortingAlgoritms.QuickSort(unsortedArray5_3, 0, unsortedArray5_3.Length - 1);
+            SortingAlgorithms.QuickSort(unsortedArray5_3, 0, unsortedArray5_3.Length - 1);
             CollectionAssert.AreEqual(sortedArray5, unsortedArray5_3);
         }
     }

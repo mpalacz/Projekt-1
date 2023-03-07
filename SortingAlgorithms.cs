@@ -1,6 +1,6 @@
 ﻿namespace Projekt_1
 {
-    internal class SortingAlgoritms
+    internal class SortingAlgorithms
     {
         public static void SelectionSort(int[] tab)
         {
